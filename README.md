@@ -1,4 +1,4 @@
-OS_Ringtone_Gen
+Old Spice Ringtone Generator
 ===============
 
 Generates a customized ringtone for you using the Old Spice ringtone audio.
